@@ -48,3 +48,9 @@ pretrained_model/*.t7
 pretrained_model/*.pth
 model_convert/
 
+Paprika_net_G_float.pth
+rawData/
+result/
+test_img/
+test_img1/
+test_output/

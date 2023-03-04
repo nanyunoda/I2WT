@@ -16,8 +16,8 @@ start_time = datetime.datetime.now()
 #     img_style : 변환하고자 하는 이미지 스타일 ( Hayao, Shinkai, Hosoda, Paprika )
 #     gpu_use : GPU CUDA를 사용할 경우 0, CPU를 사용하는 경우 -1 
 
-threshold_value = 50
-video_name = 'Nic_Real_ATS'
+threshold_value = 40
+video_name = 'test2'
 video_path = './rawData/' + video_name + '.mp4'
 img_style = 'Shinkai'
 gpu_use = -1
